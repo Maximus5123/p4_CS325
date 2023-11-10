@@ -1,0 +1,562 @@
+Comment: “I’m not in charge of contraceptives”
+Sentiment: Neutral. The comment is a statement of fact and does not express a sentiment.
+
+Comment: 
+Sentiment: The movie was okay but not great''
+
+The sentiment of this comment is generally neutral or mildly negative.
+
+Comment: Had me cracking up Processed
+Sentiment: The sentiment of this comment is positive.
+
+Comment: Strauss and Oppenheimer both being served career implosions at the same exact time to represent mutually assured destruction was genius. Processed
+Sentiment: Positive
+
+Comment: “Maybe they were talking about something more… important”
+Sentiment: This comment could be interpreted as somewhat negative, expressing a sense of disappointment at the perceived lack of importance of the conversation. It implies that the speaker wanted to talk about something more meaningful.
+
+Comment: 
+Sentiment: That was terrible overall!"
+
+Negative
+
+Comment: What a great “go fuck yourself” moment. All the self-importance just gone. RDJ killed it in this role Processed
+Sentiment: This comment appears to be ironic in nature, expressing admiration for Robert Downey Jr.'s performance in the manner of a complimentary insult. The sentiment is likely positive.
+
+Comment: Academy award "Best Actor" winners Casey Affleck, Gary Oldman and Remi Malek have total screen time of about 5 minutes. Processed
+Sentiment: The sentiment of this comment is negative.
+
+Comment: Some guy in front of me went for a bathroom break with 15 minutes left. He sat there for 2h45m but just couldn’t make it. Brutal timing lol Processed
+Sentiment: The sentiment of this comment is amusement.
+
+Comment: Oppenheimer: I’m so conflicted about my creation. Ah and angst of genius!
+Sentiment: The sentiment of this comment is one of self-doubt and conflict.
+
+Comment: 
+Sentiment: I love visiting new places and having new experiences.''
+
+The sentiment of this comment is positive.
+
+Comment: Teller: you know this is just the fuse for a bigger bomb I wanted to make Processed
+Sentiment: The sentiment of the comment can be interpreted as threatening or ominous.
+
+Comment: My brother said that Gary Oldman just needs to play Stalin now and he’ll have played all three world leaders who were at Potsdam. 
+Sentiment: The comment appears to have a neutral sentiment.
+
+Comment: 
+Sentiment: The prices have increased drastically over the past few years.''
+
+Negative
+
+Comment: Nolan seriously pulled every string possible for casting in this. It’s amazing how he knew how all of the people he’s worked with before in their secondary roles would be able to fit together into the puzzle, but that’s part of what makes his films enjoyable. David Krumholtz’s physical transformation caught me off guard, and Rami Malek having no lines until the (verbal) bomb drops at the end was outstanding. Processed
+Sentiment: The comment has a very positive sentiment. The speaker expresses admiration for Nolan's casting choices, and surprise at David Krumholtz's performance and Rami Malek's masterful silent presence.
+
+Comment: Casey Affleck was terrifying in the small screen time we saw him.
+Sentiment: The sentiment of this comment appears to be positive. The speaker is likely admiring Casey Affleck's performance and commenting on how effective he was in the limited amount of screen time he had.
+
+Comment: 
+Sentiment: I strongly disagree with your views.
+
+Negative
+
+Comment: Got Sociopathic CIA vibes from his character Processed
+Sentiment: The sentiment of this comment appears to be negative as it associates the character with sociopathy and the CIA.
+
+Comment: The ending scene tying back into the raindrops hit me so damn hard. Good job Nolan you are the man, never stop making movies. Processed
+Sentiment: Positive
+
+Comment: My man Gödel talking about the structure of trees while everybody's trying to blow the world up was my favourite part of the film. Processed
+Sentiment: Positive
+
+Comment: Normal people during sex: Oh yeah oh baby
+Sentiment: Positive
+
+Comment: 
+Sentiment: Great movie, but sadly the ending wasn't satisfactory''
+
+The sentiment of this comment is mixed. The speaker enjoyed the movie overall, but was disappointed with the unsatisfactory ending.
+
+Comment: Nerds during sex: I am become Death, the destroyer of worlds Processed
+Sentiment: The sentiment of the comment appears to be sarcastically implying that nerds can be overly analytical and unromantic during a sexual encounter.
+
+Comment: I liked Kitty’s line of “you don’t get to sin and make everyone feel sorry for you.” After he found out Tatlock died Processed
+Sentiment: The sentiment of this comment is overall positive. The speaker admires Kitty's words and acknowledges her with respect by attributing them to her. The speaker also acknowledges the fraught situation surrounding Tatlock's death.
+
+Comment: “Don’t let that crybaby back in.” Holy shit Truman was an asshole. He was on screen for less than 5 minutes and was somehow the worst person in the movie. Processed
+Sentiment: Negative sentiment
+
+Comment: The scene after the bomb goes off and he’s addressing the crowd will haunt me for some time, I can’t remember feeling so uncomfortable in a theatre. I can’t wait to see it again, absolutely incredible spectacle from start to finish Processed
+Sentiment: The sentiment of this comment is positive. Although the person expresses feeling "uncomfortable" during the scene, they express anticipation to view the spectacle again and an overall positive view of the show as an "incredible spectacle from start to finish
+
+Comment: Florence Pugh showed up and got naked, then killed herself. That scene where Oppie’s wife is imagining Pugh just riding her husband, that was something I never thought I’d see in a Nolan film. It was almost Ari Aster like. Processed
+Sentiment: The sentiment of this comment is generally positive. The speaker enjoyably comments on how Florence Pugh's character in the film shows unexpected elements of boldness, with her willingness to get naked and then kill herself, which is something the speaker never
+
+Comment: "I believe we did"
+Sentiment: The sentiment of this comment is positive.
+
+Comment: 
+Sentiment: This movie was horrible.''
+
+Negative
+
+Comment: Those final shots just made my heart sink. Even knowing the history I wasn't prepared to be so emotionally drained after this. Processed
+Sentiment: The sentiment of this comment is sadness.
+
+Comment: I love the use of ripples on water to represent nuclear bombings like how they have drawn the blast radiuses on the map. In the end, during Einstein and Oppenheimer's encounter, it was drizzling, and endless ripples formed on the lake. Processed
+Sentiment: The sentiment of this comment is positive.
+
+Comment: Emily Blunt’s character answering questions from Roger Robb and not falling for any of his bullshit was a great scene. Processed
+Sentiment: This sentiment is positive. The commenter is praising Emily Blunt's character for standing up to the character of Roger Robb in a particular scene.
+
+Comment: The feeling in my theater was palpable after the Trinity Test was successful and everyone on the ground was cheering its success. I don’t know how to describe it but it was kind of out of body to see almost a time capsule of people from 80 years ago celebrating the creation of something that could be the death of myself or my children in the future. Really chilling scene. Processed
+Sentiment: The sentiment of the comment can be described as apprehensive. The commenter described their feelings as "out of body" and felt a sense of dread when they imagined the destructive potential of the Trinity Test. They found the feeling of celebration from an
+
+Comment: “Do you want them to tar and feather you in the hopes they’ll forgive you for what you’ve done?”
+Sentiment: Negative
+
+Comment: 
+Sentiment: The world can be a dark and scary place.''
+
+The sentiment expressed in this comment is one of pessimism.
+
+Comment: Emily Blunt delivering the most scathing condemnation of Oppenheimer’s character and actions was so fucking powerful. Mix that in with her portrayal of postpartum depression, a mother and wife resigned to be nothing but a caretaker in the shadow of an ego driven, neurotic, anxiety filled genius and then a powerhouse fighter in the hearing, I think she was a real highlight for me. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: It's AWESOME!''
+
+Positive
+
+Comment: The film was way more humanising of Oppenheimer then I was thinking it’d be but also so much more damning of him than I’d ever thought it would be. Processed
+Sentiment: This comment has a positive sentiment. The speaker is pleasantly surprised by the film, finding it more humanizing than expected, but also more critical.
+
+Comment: “Maybe they weren’t talking about you at all… maybe something, more important” leading up to the final scene was a great line. The wince from Downey as the door opens and he’s hit with the sound of the reporters waiting to tear him down further. Processed
+Sentiment: Neutral
+
+Comment: Ends with American Prometheus realizing the full scope of what still may come to pass.
+Sentiment: Positive
+
+Comment: 
+Sentiment: I can never understand why people are so mean.''
+
+The sentiment of the comment is negative, reflecting frustration and confusion.
+
+Comment: This movie was fantastic. RDJ gave one hell of a fucking performance in the final act of the movie. As did everyone, regardless of their screen time throughout. Cillian Murphy conveyed so much through his role id be surprised if he didn't win best actor. Emily Blunt gave one hell of a performance and the shot of her reliving her husband's infidelity during the clearance interview was artistically beautiful. A great "show, don't tell" moment.
+Sentiment: The sentiment of this comment is overwhelmingly positive. The commenter expresses admiration for the performances of the cast, particularly Robert Downey Jr., Cillian Murphy, and Emily Blunt. They find Emily Blunt's scene to be particularly artistically beautiful
+
+Comment: 
+Sentiment: I don't like this movie''
+
+The sentiment of this comment is negative.
+
+Comment: The fact that the pace starts and never really never let's up, but has moments of built tension that doesn't release, and moves on to save for later, makes it feel like it also never speeds up either. Its a marathon, but its paced so well its like you were trained for that marathon. My body felt the three hour run time, but my mind didn't. 
+Sentiment: The sentiment of this comment appears to be positive. The comment praises the pacing of the movie, stating that although it does not speed up or slow down, it is crafted so that the audience never feels overwhelmed with tension. The commenter also praises
+
+Comment: 
+Sentiment: Such a great movie!''
+
+Positive
+
+Comment: The ending was also beautiful shot, from almost every aspect. RDJ slowly making his way towards Oppenheimer and Einstein, to the content of that teased conversation, to the way it ended. Processed
+Sentiment: This comment is largely positive in sentiment, as the author praises the beautiful shot of the scene, the inclusion of the teased conversation, and the way the scene ultimately ended.
+
+Comment: Why did Nolan tease JFK like the joker card from Batman Begins Processed
+Sentiment: Neutral
+
+Comment: Haven’t seen anyone talk about Matt Damon yet…I think he did an incredible job Processed
+Sentiment: Positive
+
+Comment: The last scene with Oppenheimer and Einstein made my stomach launch into my throat Processed
+Sentiment: Positive
+
+Comment: Emily Blunt's character where it looks like she's starting to break down and the sudden 180 during the questioning was amazing. Standing her ground and not falling for bait questions. Processed
+Sentiment: Positive
+
+Comment: Like many people the ending to this movie is absolutely incredible! Ending with Einstein & Oppenheimer was genius and it gave me literal chills! Nolan’s best in years Processed
+Sentiment: Positive
+
+Comment: For a 3 hour heavy dialogue film to have this type of speed to it is incredible. Honestly it was hard to distinguish where scenes began and ended with it's editing and pacing. It just did not stop and I loved it. It cuts to a single shot for a split second, then back to the scene, then forward to another, then backwards again while in colour for a first person perspective then to a black and white objective perspective with the music swelling along while all being coherent. Processed
+Sentiment: The sentiment expressed in this comment is overwhelmingly positive. The commentator praises the speed, editing, and pacing of the film, and they are amazed at how the film was able to maintain coherency while incorporating various techniques.
+
+Comment: The scene where Strauss is told something along the lines of "Maybe they were talking about more IMPORTANT things" had me grinning ear to ear. Oh my god Processed
+Sentiment: Positive
+
+Comment: Question about the scene where >! A character drowns themselves in a bathtub, was there certain shots in this sequence that showed another pair of hands drowning them ? IE implying it could’ve been murder ? !< 
+Sentiment: Neutral
+
+Comment: 
+Sentiment: This restaurant is terrible!''
+
+Negative
+
+Comment: Anyway, enjoyed the film, reminded me a lot of Oliver Stones ‘Nixon’ that I love.. it’s missing Stones sense of paranoia though Processed
+Sentiment: The sentiment expressed in this comment is positive. The commenter enjoyed the film and noted that there are similarities to Oliver Stone's favorite films, such as 'Nixon'. Despite this, the commenter realizes that the film is missing the paranoia-filled
+
+Comment: I believe we did. 💀 Processed
+Sentiment: The sentiment of this comment is neutral. The "💀" emoji can be interpreted as a sign of finality, perhaps indicating that the task is completed and can no longer be changed or undone.
+
+Comment: Didn't know Josh Peck was going to be in it, that was a funny and pleasant surprise Processed
+Sentiment: The sentiment of the comment is positive.
+
+Comment: That scene after the bombs have been dropped and Oppenheimer is addressing that classroom of people was one of the most haunting things I’ve seen. The way the background shook, and the flash burned the audience, mixed with the silence was something else. Processed
+Sentiment: The sentiment of the comment is one of awe and admiration.
+
+Comment: The biggest thing for me was, just how impactful the first explosion was to the people that were there doing the testing.
+Sentiment: The sentiment of this comment is one of awe and admiration.
+
+Comment: 
+Sentiment: That movie was terrible!''
+
+Negative sentiment.
+
+Comment: They weren’t just creating another bomb, but something terrifying, world ending stuff. 
+Sentiment: Negative
+
+Comment: 
+Sentiment: This restaurant was terrible!''
+
+Negative sentiment.
+
+Comment: Nolan really gets that across to the audience. Impactful stuff.
+Sentiment: Positive
+
+Comment: 
+Sentiment: This was a terrible experience.''
+
+Negative
+
+Comment: But the size of the explosion threw me off. Because you see stuff [like this](https://youtu.be/NofLHhxHwYk) and the close up shots of the buildings being destroyed, [like this](https://youtu.be/DXg2P9dx-GM).
+Sentiment: The sentiment expressed in this comment is one of surprise and awe. The reference to the videos implies that the size of the explosion was unexpected and powerful, and the implied admiration for the destruction gives a sense of wonder.
+
+Comment: 
+Sentiment: That movie was so great!''
+
+Positive
+
+Comment: 
+Sentiment: I really love this product, it has been so helpful''
+
+The sentiment of this comment is positive.
+
+Comment: But to realize a nuclear explosion is just [this](https://youtu.be/8PJEpeU00eU) when viewed from afar, I can now totally see the scale Nolan was going for. It never really occurred to me just how almost simple the explosion could be portrayed, I never put a lot of thought into it. But it’s still so horrifying in its destructiveness. Processed
+Sentiment: The sentiment expressed in this comment is one of awe and appreciation of the scale of nuclear destruction. The comment also expresses horror at its destructiveness.
+
+Comment: I was genuinely surprised when I saw Rami Malek. Didn't know he was here. Processed
+Sentiment: Positive
+
+Comment: Ludwig Göransson might be approaching a Hans Zimmer level of film composer. The way he orchestrated the score adds so much to the tension and anxiety of the movie. Hopefully he picks up the Oscar Processed
+Sentiment: The sentiment of the comment is positive. It expresses admiration for Ludwig Göransson's work as a film composer, and it expresses hope that he will be rewarded for his work with an Oscar.
+
+Comment: For the physics folks here, Feynman and his repeated scenes with the bongos cracked me up. Jokes aside, Nolan outdid himself and it lived up to the hype for me. Processed
+Sentiment: The sentiment of the comment is positive. The commenter found the film humorous and thought it was better than expected.
+
+Comment: It’s hilarious that the nude scene that everybody made so much out of even included the Destroyer of Worlds Bhagavad Gita quote. Processed
+Sentiment: Positive
+
+Comment: Anyone else catch the black gloved hand in the corner of the frame during the tatlock “suicide” scene? In the Bird/Sherwon book there is a suggestion that she was murdered. I thought this was an interesting way of visualizing the ambiguous circumstances of her death. Processed
+Sentiment: Positive
+
+Comment: I found Emily Blunt's portrayal of Kitty Oppenheimer particularly compelling and it was amazing how complete a character she was in such limited time. During her limited screentime she showed:
+Sentiment: Positive
+
+Comment: 
+Sentiment: Their customer service is terrible''
+
+Negative sentiment
+
+Comment: * Vulnerability - post partum depression
+Sentiment: Neutral
+
+Comment: 
+Sentiment: I'm really loving this product!''
+
+Positive
+
+Comment: * Compassion - Robert tells her about Jean
+Sentiment: The sentiment of the comment is neutral.
+
+Comment: 
+Sentiment: The food was delightful!''
+
+Positive
+
+Comment: * Determination - telling Robert to fight
+Sentiment: Neutral/Ambiguous. The sentiment of this comment is not clear because it could mean that either the speaker is encouraging Robert to fight or telling him not to.
+
+Comment: 
+Sentiment: It's a good movie, but not as good as the original''
+
+The sentiment of this comment is that the movie is good, but not as good as the original.
+
+Comment: * Wisdom - reasoned it was Strauss
+Sentiment: The sentiment of this comment is positive. It indicates that the speaker admires the wisdom of Strauss and has a strong opinion of respect for them.
+
+Comment: 
+Sentiment: This pizza is tasteless''
+
+Negative
+
+Comment: * Strength - the only one that really made Roger Robb struggle Processed
+Sentiment: Positive
+
+Comment: One thing I think I missed during the movie was in the beginning when they brought the titles for:
+Sentiment: Neutral.
+
+Comment: 1. Fission
+Sentiment: Neutral/Inconclusive
+
+Comment: 2. Fusion
+Sentiment: Neutral
+
+Comment: 
+Sentiment: What an incredible experience, I'm so glad that I attended!''
+
+Positive
+
+Comment: I thought this would come back and it didn’t. Anyone have an understand of what that meant? Does it have to do something with the color vs black and white. Could have missed something really basic. Processed
+Sentiment: Neutral. This comment expresses confusion rather than a negative or positive sentiment.
+
+Comment: No one talking about him,
+Sentiment: Negative
+
+Comment: 
+Sentiment: I really liked the product"
+
+The sentiment of the comment is positive.
+
+Comment: But Jason Clarke as Roger Robb in the interrogation scenes was genuinely brilliant. Just such an amazing performance all round from the whole cast. Processed
+Sentiment: Positive
+
+Comment: The dead silence in the theater during the trinity explosion. Something I’ll never forget experiencing in a full theater. Processed
+Sentiment: The sentiment of this comment is likely one of awe and admiration. The comment is describing a unique and powerful experience that probably made the theater audience feel very humbled and amazed.
+
+Comment: They played the trailer to The Exorcist Believer before this movie 🤣 Processed
+Sentiment: Positive
+
+Comment: I loved how that constant stomping noise is used to make you feel terror, you’re afraid anytime you hear it and then it’s revealed that the terrifying sound, is a crowd of people cheering for Oppenheimer. It makes it even more scary Processed
+Sentiment: Positive
+
+Comment: Christopher Nolan has perfectly encapsulated what anxiety can feel like. Claustrophobic, loud, and unrelenting. Processed
+Sentiment: The sentiment of this comment is very positive. The speaker is praising Christopher Nolan for his ability to accurately and effectively portray the feeling of anxiety in his films.
+
+Comment: Our 70mm showing stopped working 2.5 hours into the film! A light bulb or something broke. We had a little 10 min intermission, and got free tickets bc of it! Overall one of Nolan's best films. Processed
+Sentiment: Overall the sentiment of this comment is positive. Even though the screening was problematic (due to the technical problems) the customer service was great and they got free tickets. The sentiment is further accentuated by the statement that it is one of Nolan
+
+Comment: He always answered because there was no caller ID back then. Processed
+Sentiment: The sentiment of this comment is neutral.
+
+Comment: No, Strauss, you’re not important enough to be discussed by Oppenheimer and Einstein. Processed
+Sentiment: Negative
+
+Comment: Cillian Murphy's haunting look at several key points of the film is just amazing. That final conversation with Einstein, his stare is immense and powerful Processed
+Sentiment: Positive
+
+Comment: Did anyone else notice that when Strauss is retelling the story of Oppenheimer embarrassing him, he laughs along with everyone else, but later in the movie when they show it, he’s completely stone-faced. Processed
+Sentiment: The sentiment of this comment is neutral. It is simply an observation about a detail in a movie.
+
+Comment: Seen it twice now already. Trinity test scene was remarkable and what most people will see the film for, but there are so many other great scenes. Some of my favorite:
+Sentiment: Positive
+
+Comment: 
+Sentiment: I love your new hair cut!''
+
+Positive
+
+Comment: - **"Can you hear the music, Robert?"** The scene where Oppenheimer is told to leave Cambridge and we seem him abroad, looking at art, thinking of the quantum world, all while the beautiful score is played. Such a beautiful montage. It happens early so it's somewhat over shadowed by the later scenes, but make no mistake I think it's one of the best in the film.
+Sentiment: This comment has a positive sentiment towards the scene described. The commenter has a favorable opinion of the music, montage, and overall the scene itself.
+
+Comment: 
+Sentiment: That was an incredible service experience!''
+
+The sentiment of this comment is positive.
+
+Comment: - The dinner with Strauss, where they are discussing whether or not there was a spy at Los Alamos and if the Soviets have an H-bomb. I love this sequence, I love the way the music swells, the back and forth between Strauss and Oppenheimer, and how the scene ends with Oppenheimer says something to the effect of "there was no spy" and Strauss holds up the data sheet and says "Robert." RDJ delivery of that line was like music. I love how everything was played during that scene and how it all culminates with RDJ's delivery of that line. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: That movie was terrible!''
+
+The sentiment of this comment is negative.
+
+Comment: - **"I'm taking Kyoto off the list, due to it's cultural significance to the Japanese people. Also my wife and I honeymooned there."** Fantastic and harrowing scene where they discuss how and where to effectively use the bomb. James Remar is particularly great. 
+Sentiment: The sentiment of this comment is positive.
+
+Comment: 
+Sentiment: Your product was absolutely terrible''
+
+The sentiment expressed in this comment is negative.
+
+Comment: - The gymnasium scene, after they learned of the Horishima bombing. This was Nolan directing a horror film. First of all I loved the use of a wide open aperture during this scene, as it gave the scene a very shallow depth of field, resulting in a dream like/nightmare like appearance. This might be Cillian's best scene in the film, watching Oppenheimer dissociate from the jubilation of the crowd, as the reality around him begins to break down, as the destruction and death he was responsible for begins to truly sink in. I love how flat his "rah-rah" speech is. And the use of sound here is tremendous. The stamping of the feet, the sound of the crowd going out, the sound of a woman screaming, the crowd noise slamming back in like a bomb itself. 
+Sentiment: The sentiment of this comment is positive. The writer is praising the use of cinematography and sound design to create an effective scene, as well as Cillian Murphy's performance.
+
+Comment: 
+Sentiment: This book was terrible.''
+
+Negative
+
+Comment: - The whole last hour is great, but the sequence where Roger Robb is realllyyy starting to grill Oppenheimer and the blinding light begins to fill the room. Acting and editing here was just unreal. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: How can they be so insensitive!''
+
+The sentiment of this comment is outrage and disapproval.
+
+Comment: - The scene with Pash. Casey Affleck's line delivery is so soft spoken, yet unsettling. Really tense scene.
+Sentiment: The sentiment expressed in this comment is positive. The commenter is praising Casey Affleck's line delivery, describing it as both "soft spoken" and "unsettling", which implies a high level of skill from the actor. They also describe
+
+Comment: 
+Sentiment: This is an absolutely amazing course!
+
+The sentiment of this comment is positive.
+
+Comment: - **"You can use a shovel for atomic energy, in fact you do"** I loved that this film used a Rashomon style narrative where we see the same scene over and over again from different perspectives and subjectivity. One of my favorites was the scene where Oppenheimer "humiliates" Strauss in public over the isotopes. I love when we first see this scene, Strauss appears to take Oppenheimer's jabs with good humor, smiling and shrugging it off, but when the true nature of Strauss is revealed near the end of the film, we see this sequence again, and Strauss looks so angry and humiliated. Also Cillian's line delivery during these moments were so good. I just love how he says "in fact you do!"
+Sentiment: Overall Positive
+
+Comment: 
+Sentiment: The salad I just made is so delicious!''
+
+Positive sentiment
+
+Comment: 
+Sentiment: The food was terrible and the service was horrible''
+
+Negative sentiment.
+
+Comment: 
+Sentiment: I’m absolutely thrilled by the news!''
+
+The sentiment of this comment is positive.
+
+Comment: - The final scene where we learn what Oppenheimer and Einstein really said to each other that day. Nolan understands set up and pay off so well. You watch the film waiting for the reveal and it does not disappoint. The final moment with the vision of the nuclear holocaust, is incredibly bleak, but much of what Einstein says to Oppenheimer during before this is so sad and god damn poignant. Watching Oppenheimer as an old man receive a hollow award and receive handshakes and pats on the back from some of the men that stabbed him in the back or attempted to. The way Einstein sums up the burden of genius, but also the way you will be taken for granted as you age. Processed
+Sentiment: This comment has a predominantly positive sentiment. The commenter praises director Christopher Nolan's ability to create a sense of suspense before a payoff, noting that the reveal does not disappoint. They also mention that the final moment of the film is incredibly bleak but
+
+Comment: Rami Malek's character (Hill?) was basically the opposite of Strauss. Strauss is met with two minor slights by Oppenheimer, one imagined, and makes it his mission to ruin his life. 
+Sentiment: The sentiment of this comment is positive. It implies that Strauss' character is admirable for not retaliating when he is slighted and instead choosing to focus his energy on something more productive.
+
+Comment: 
+Sentiment: I absolutely hate this movie''
+
+Negative
+
+Comment: Hill was genuinely dismissed, maybe even bullied, by Oppenheimer multiple times but years later decides to essentially exonerate him in front of a congressional hearing. Processed
+Sentiment: This comment has a positive sentiment. The speaker appears to admire Hill for forgiving Oppenheimer multiple years after he was wronged.
+
+Comment: A film that feels like an enormous pop culture event while simultaneously being a 3 hour, dialogue heavy character study that extensively uses black and white photography. Watching such a film on a massive screen with a sold out crowd is honestly quite unbelievable. In this day in age we almost exclusively expect this for comic book movies and not much else. That thought alone genuinely brought me to the verge of tears multiple times. We just don’t get moments like this very often. Thankfully Oppenheimer is worthy of the moment. Processed
+Sentiment: The sentiment of this comment is extremely positive. The writer is extolling the film for being a unique, ambitious work and they are amazed and overjoyed to get the chance to experience it on a large scale. They express appreciation for
+
+Comment: He was so mean/dismissive to Rami’s character and yet he was the one who supported and back him up Processed
+Sentiment: Negative
+
+Comment: I knew nothing of the history between Oppenheimer and RDJ’s real life counterpart he was playing. So when in the 3rd act it’s revealed he’s the one orchestrating the campaign to ruin Cillian Murphy, I was STUNNED.
+Sentiment: Positive
+
+Comment: 
+Sentiment: I love going to the movies with my friends!''
+
+This comment is very positive and shows enthusiasm.
+
+Comment: Legit the best twist I seen since LA confidential. Processed
+Sentiment: Positive
+
+Comment: I'm just gonna say that the bowls on the table filling up with marbles might be low-key one of my favorite plot devices. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: The food was terrible.''
+
+Negative
+
+Comment: Most films would give some stupid exposition, try and explain something really fucking complex like bending a piece of paper and poking a hole through it or something. 
+Sentiment: Negative
+
+Comment: 
+Sentiment: I love going shopping for clothes!
+
+Positive
+
+Comment: Not this film. Nolan just shows marbles filling in some bowls and keeps the film focused on what fucking matters. Brilliant. Processed
+Sentiment: Positive
+
+Comment: The way my sphincter exploded like the bomb when the audio cuts back in during the gymnasium applause. Processed
+Sentiment: Negative
+
+Comment: The last 30 minutes could be its own movie lol, Oppenheimer getting slammed from everyone Processed
+Sentiment: The sentiment of this comment is positive.
+
+Comment: They made a avengers assemble movie for all the scientists but didn’t give them each solo movies to flesh out their characters. Also that Einstein guy seems like some bait for a prequel movie Processed
+Sentiment: Negative
+
+Comment: That little mention of JFK voting against Strauss got a good chuckle out of me Processed
+Sentiment: Positive
+
+Comment: I love how Nolan played with the differences between the speed of light and sound during the Trinity Test. To convey an awe-inspiring visual spectacle only to be engulfed by the force/sound of it. 
+Sentiment: The sentiment of this comment is positive.
+
+Comment: 
+Sentiment: I had the best experience ever at this restaurant!''
+
+The sentiment of the comment is positive.
+
+Comment: The atomic bomb was a marvelous scientific achievement but then the magnitude of this creation and the harm it will cause literally hits you like a freight train. 
+Sentiment: The sentiment of this comment is mixed. The first part of the sentence is positive, discussing the "marvelous scientific achievement" of the atomic bomb, however, the second half of the sentence contains a more negative sentiment, noting that the
+
+Comment: 
+Sentiment: I absolutely adore your work!"
+
+The sentiment of this comment is positive.
+
+Comment: My whole theater was completely silent. It was awesome to be a part of. Processed
+Sentiment: The sentiment in this comment is one of contentment and awe.
+
+Comment: The Soundwave after the detonation was a genuine jump scare in my screening last night. If felt like my packed Theater was all together in wonder at the explosion visuals that the blast sound shocked everyone back to reality. Processed
+Sentiment: Positive
+
+Comment: I fucking loved this movie. So much tragedy in this movie. Love Emily Blunts line that went something like just because you sin don't expect the world to feel sorry for you. Of course all the conversations with Einstein were great. 
+Sentiment: The sentiment of this comment is positive. The comment expresses love for the movie and admiration for the character's line of dialogue. It also speaks positively of conversations with Einstein.
+
+Comment: Loved RDJ in the third act
+Sentiment: Positive
+
+Comment: Pacing and editing is so great.
+Sentiment: Positive
+
+Comment: I held my piss in the whole time.
+Sentiment: Negative
+
+Comment: Cillian Murphy and Emily Blunt need Oscar nods IMO.
+Sentiment: Most likely positive sentiment.
+
+Comment: Nolan did it again Processed
+Sentiment: Positive
+
+Comment: It’s funny to think that the whole barbenheimmer trend is going to convince more than one casual film goer to see a three hour dialogue heavy biopic. It’s very good, Cillian Murphy is phenomenal, RDJ kinda hijacks in the third act but that’s alright I like him too, love Gary oldman’s new schtick of “I’m going to cover myself in some much rubber that even my mama won’t recognize me” Processed
+Sentiment: The sentiment expressed in this comment is positive. The writer admires Cillian Murphy and Robert Downey Jr.'s performances, enjoys Gary Oldman's new schtick, and believes the film is very good.
+
+Comment: I don’t think it can be understated how powerful that last scene between Einstein and Oppenheimer was. I was already blown away by the film but that scene will haunt me for the rest of my life. 10/10. Processed
+Sentiment: Positive sentiment
+
+Comment: Everyone praising Murphy and RDJ
+Sentiment: The sentiment in this comment is positive.
+
+Comment: 
+Sentiment: It's the worst movie ever!''
+
+Negative
+
+Comment: Y'all 
+Sentiment: bout to go down!'
+
+Negative
+
+Comment: 
+Sentiment: I'm disappointed with my purchase today''
+
+The sentiment expressed in this comment is negative.
+
+Comment: Damon was excellent. Processed
+Sentiment: Positive.
+
+Comment: Had to cancel my tickets for Barbie after, this was intense Processed
+Sentiment: The sentiment of this comment is somewhat negative. It could be interpreted as expressing disappointment or frustration at having to cancel the tickets.
+
